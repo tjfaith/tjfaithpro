@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](your image link)](your GitHub link)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tjfaithpro&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <!--
 **tjfaithpro/tjfaithpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
