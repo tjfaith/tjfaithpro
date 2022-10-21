@@ -1,1 +1,1 @@
-<figure><embed src="https://wakatime.com/share/@249255d2-7d24-450a-b4ed-5def25d74491/254487ad-a4da-485b-ba6d-c12aaf7cef8e.svg"></embed></figure>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tjfaithpro&theme=merko&hide_border=true&stroke=DDD4C5)](https://git.io/streak-stats)
